@@ -1,4 +1,4 @@
-module github.com/asciimoo/filtron
+module github.com/dalf/filtron
 
 go 1.17
 
